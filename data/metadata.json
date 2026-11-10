@@ -1,0 +1,32 @@
+{
+  "classes_labels": [
+    "Adductor",
+    "ArmCurl",
+    "BenchPress",
+    "LegCurl",
+    "LegPress",
+    "Null",
+    "RopeSkipping",
+    "Squat"
+  ],
+  "label_map": {
+    "Adductor": 0,
+    "ArmCurl": 1,
+    "BenchPress": 2,
+    "LegCurl": 3,
+    "LegPress": 4,
+    "Null": 5,
+    "RopeSkipping": 6,
+    "Squat": 7
+  },
+  "N_CLASSES": 8,
+  "feature_cols_full": [
+    "A_x",
+    "A_y",
+    "A_z",
+    "G_x",
+    "G_y",
+    "G_z",
+    "C_1"
+  ]
+}
