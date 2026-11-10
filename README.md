@@ -35,7 +35,7 @@ Repetition counting accuracy (mean):
 
 ```
 colab/
-  Gym_Workout_Recognition_ID_580655.ipynb   # main notebook (final version)
+  Gym_Workout_Recognition.ipynb   # main notebook (final version)
 data/
   df_processed.parquet, metadata.json       # preprocessed dataset + label map
   hbc_model_<position>_<cap|imu|combine>.pth # best checkpoint per configuration
